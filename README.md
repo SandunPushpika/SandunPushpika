@@ -59,4 +59,3 @@ I enjoy building reliable systems, exploring design patterns, and working with c
 **Build. Design. Improve.**
 
 </div>
-```
