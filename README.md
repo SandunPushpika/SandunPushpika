@@ -1,62 +1,62 @@
-# Hey, I'm Sandun 👋
+````markdown
+<div align="center">
 
-### Software Engineer · Backend · Cloud · System Design
+```text
+███████╗ █████╗ ███╗   ██╗██████╗ ██╗   ██╗███╗   ██╗
+██╔════╝██╔══██╗████╗  ██║██╔══██╗██║   ██║████╗  ██║
+███████╗███████║██╔██╗ ██║██║  ██║██║   ██║██╔██╗ ██║
+╚════██║██╔══██║██║╚██╗██║██║  ██║██║   ██║██║╚██╗██║
+███████║██║  ██║██║ ╚████║██████╔╝╚██████╔╝██║ ╚████║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
+````
 
-I’m a Software Engineer who enjoys building **backend systems, cloud applications, and scalable software**.
+### Software Engineer • Backend • Architecture • Cloud
 
-I’m particularly interested in **software architecture, distributed systems, system design, and AI-powered applications**.
+Building practical software and exploring better ways to design it.
 
----
+[GitHub](https://github.com/SandunPushpika) · [LinkedIn](https://www.linkedin.com/in/sandun-pushpika-42a40b14a/)
 
-### 🛠️ What I Work With
-
-**Languages & Backend**
-
-`C#` `Java` `Python` `ASP.NET Core` `Spring Boot`
-
-**Databases & Messaging**
-
-`PostgreSQL` `SQL Server` `MongoDB` `Redis` `Kafka` `RabbitMQ`
-
-**Cloud & Infrastructure**
-
-`Azure` `Kubernetes` `Docker` `GitHub Actions` `Azure DevOps`
-
-**Frontend**
-
-`React` `Next.js` `Tailwind CSS`
+</div>
 
 ---
 
-### 🚀 What I'm Building & Learning
+### About
 
-* 🏗️ Designing scalable backend systems
-* 🧩 Exploring software design patterns & architecture
-* ⚡ Learning distributed systems and event-driven architecture
-* ☁️ Building cloud-native applications
-* 🤖 Exploring AI/ML integrations
-* 📚 Creating practical repositories to help other developers learn
+I'm a Software Engineer focused on **backend engineering, system design, and software architecture**.
+I enjoy building reliable systems, exploring design patterns, and working with cloud and distributed technologies.
+
+### Tech
+
+`C#` ` .NET` `Java` `Spring Boot` `React`
+`PostgreSQL` `Docker` `Kubernetes` `Azure` `Kafka`
+
+### Interested In
+
+* Backend Engineering
+* System Design & Software Architecture
+* Cloud & Distributed Systems
+* Design Patterns & Clean Architecture
+
+### Explore
+
+> Building something interesting? Have a look around.
+
+→ **[Explore my repositories](https://github.com/SandunPushpika?tab=repositories)**
+
+<!-- Add selected projects here when ready -->
+
+<!--
+### Featured
+
+- [Project Name](repository-url) — Short description
+- [Project Name](repository-url) — Short description
+-->
 
 ---
 
-### 📊 GitHub
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SandunPushpika&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandunPushpika&layout=compact&hide_border=true&theme=transparent" />
-</p>
+**Build. Design. Improve.**
 
----
-
-### 🤝 Let's Connect
-
-<p>
-  <a href="https://github.com/SandunPushpika">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-> *Build. Learn. Share. Repeat.* 🚀
+</div>
+```
