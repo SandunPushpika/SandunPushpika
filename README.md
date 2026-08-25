@@ -1,15 +1,14 @@
+```markdown
 <div align="center">
 
-```text
+<pre>
 ███████╗ █████╗ ███╗   ██╗██████╗ ██╗   ██╗███╗   ██╗
 ██╔════╝██╔══██╗████╗  ██║██╔══██╗██║   ██║████╗  ██║
 ███████╗███████║██╔██╗ ██║██║  ██║██║   ██║██╔██╗ ██║
 ╚════██║██╔══██║██║╚██╗██║██║  ██║██║   ██║██║╚██╗██║
 ███████║██║  ██║██║ ╚████║██████╔╝╚██████╔╝██║ ╚████║
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
-
-````
-</div>
+</pre>
 
 ### Software Engineer • Backend • Architecture • Cloud
 
@@ -18,6 +17,7 @@ Building practical software and exploring better ways to design it.
 [GitHub](https://github.com/SandunPushpika) · [LinkedIn](https://www.linkedin.com/in/sandun-pushpika-42a40b14a/)
 
 </div>
+```
 
 ---
 
